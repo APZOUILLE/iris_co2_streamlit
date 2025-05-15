@@ -1,8 +1,7 @@
-# Versions testées compatibles entre elles et sans bug dtype
 numpy==1.23.5
-pandas==1.4.4
-matplotlib==3.5.3
-seaborn==0.11.2
-plotly==5.9.0
-streamlit==1.42.0
+pandas==1.5.3
+matplotlib==3.6.2
+seaborn==0.12.2
+plotly==5.10.0
+streamlit==1.15.0
 nbformat>=4.2.0
